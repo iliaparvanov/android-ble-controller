@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bluetooth Controller</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_ble">BLE</string>
+    <string name="bleTopText">Scanning...</string>
+    <string name="actionSettings">Settings</string>
+    <string name="actionDisconnect">Disconnect</string>
+    <string name="actionScan">Scan</string>
+</resources>
